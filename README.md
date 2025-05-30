@@ -42,6 +42,13 @@ This project is part of my **AI & ML Internship Task 4**, where I built a binary
 8. **Tuned** the threshold manually to improve recall/precision tradeoff
 9. **Visualized** the sigmoid function to understand how Logistic Regression maps values to probabilities
 
+---
+
+## 📁 Files Included
+1. **data.csv** : The data file on which we use the concept of Logistic Regression.
+2. **Logistic Regression.ipynb** : The pyhton notebook file with the program for Logistic Regression.
+3. **Receiver Operating Characteristic Curve.png** : The image file of the ROC curve we got.
+4. **Sigmoid Function** : The sigmoid function image file.
 
 
 
